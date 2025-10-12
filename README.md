@@ -1,31 +1,42 @@
-<h1 align="center">Hi 👋, I'm Nikesh</h1>
-<h3 align="center">A passionate Quant Trader </h3>
+<h1 align="center">👋 Hi, I'm Nikesh</h1>
+<h3 align="center">Founder & CEO — AutoMeta Fintech Solutions</h3>
+<h4 align="center">Quant Trader | Algorithmic Strategist | AI-Driven Fintech Innovator</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikeshashokan&label=Profile%20views&color=0e75b6&style=flat" alt="nikeshashokan" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikeshashokan" alt="nikeshashokan" /></a> </p>
+### 🚀 About Me  
+I’m the founder of **AutoMeta Fintech Solutions**, a next-generation algorithmic trading company focused on the intersection of **AI, automation, and financial markets**.  
+My journey began as a retail trader exploring the psychology of markets — today, I lead the development of **AI-powered trading systems** designed to redefine how retail and institutional traders interact with financial data.  
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+At AutoMeta, we specialize in:
+- Building **machine-learning and reinforcement-learning trading systems** with real-time adaptability.  
+- Creating **scalable fintech platforms** integrating brokerage, social trading, and automated portfolio management.  
+- Designing **quantitative models** that merge statistical precision with algorithmic intelligence.  
 
-- 🔭 I’m currently working on **Teaser Generator From VideoFile**
+My work revolves around transforming **market chaos into computational logic**, using data-driven models to identify structure in volatility and risk.
 
-- 🌱 I’m currently learning **LLM ,Deep Learning**
+---
 
-- 💬 Ask me about **ML,AI,Data Science**
+### 💡 Vision  
+To democratize algorithmic trading through intelligent automation — empowering traders worldwide with AI-driven tools that are **transparent, profitable, and scalable**.
 
-- 📫 How to reach me **nikeshashokan2004@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🌍 Beyond Trading  
+I’m passionate about **entrepreneurship**, **AI innovation**, and building a **fintech ecosystem** where automation meets accessibility.  
+When I’m not coding or optimizing trading algorithms, I’m mentoring aspiring traders, creating fintech content, and shaping the future of **AI-based financial systems**.
+
+---
+
+### 📫 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/nikeshashokan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikeshashokan" height="30" width="40" /></a>
-<a href="https://instagram.com/fxnick04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fxnick04" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikeshashokan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/fxnick04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikeshashokan&show_icons=true&locale=en&layout=compact" alt="nikeshashokan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikeshashokan&show_icons=true&locale=en" alt="nikeshashokan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshashokan&" alt="nikeshashokan" /></p>
+<p align="center">
+  <i>"Algorithmic trading isn’t just about automation — it’s about precision, discipline, and vision."</i><br>
+  <b>— Nikesh Ashokan</b>
+</p>
